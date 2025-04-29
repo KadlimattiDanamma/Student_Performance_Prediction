@@ -495,11 +495,11 @@
  
  # Conclusion
  
- Improving the education system is a big problem, as an engineering student we can help achieve this goal by using technologies and study resources like machine learning materials, to come up with an innovative solution to help the student in need, especially students who live in difficult conditions. conditions (demographic, social and educational issues).
- In this project, we came up with the idea of creating a model that predicts the status of students based on different functionalities.
-  Our main challenges were to define the best classification algorithm and identify the most influential factors for the academic status of students to provide them with a summary or valedictorian of the best conditions for students to achieve high academic status and avoid failures.
-   For this project entitled “Prediction of student performance and difficulty” ”, we used several classification methods such as logistic regression, KNN and SVM and we evaluate this model using different metrics like f1 score, roc curve and the confusion matrix and finally we got a winner with SVM with a precision of 80%compared to other algorithm .
- Before taking up our main challenges, there were several steps to take:
+ # Improving the education system is a big problem, as an engineering student we can help achieve this goal by using technologies and study resources like machine learning materials, to come up with an innovative solution to help the student in need, especially students who live in difficult conditions. conditions (demographic, social and educational issues).
+ # In this project, we came up with the idea of creating a model that predicts the status of students based on different functionalities.
+  # Our main challenges were to define the best classification algorithm and identify the most influential factors for the academic status of students to provide them with a summary or valedictorian of the best conditions for students to achieve high academic status and avoid failures.
+   # For this project entitled “Prediction of student performance and difficulty” ”, we used several classification methods such as logistic regression, KNN and SVM and we evaluate this model using different metrics like f1 score, roc curve and the confusion matrix and finally we got a winner with SVM with a precision of 80%compared to other algorithm .
+ # Before taking up our main challenges, there were several steps to take:
  -data processing
  -data visualization
  -Implementation of models
